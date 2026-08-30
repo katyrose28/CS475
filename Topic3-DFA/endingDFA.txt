@@ -1,0 +1,14 @@
+start
+endsA endsC
+start a endsA
+start b endsB
+start c endsC
+endsA a endsA
+endsA b endsB
+endsA c endsC
+endsB a endsA
+endsB b endsB
+endsB c endsC
+endsC a endsA
+endsC b endsB
+endsC c endsC
